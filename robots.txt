@@ -1,9 +1,3 @@
-# Updated 2026-10-08
-# Block unwanted bots
-User-agent: MJ12bot
-User-agent: SeznamBot
-Disallow: /
-
 # Allow useful bots
 User-agent: Googlebot
 User-agent: Bingbot
@@ -11,6 +5,3 @@ Allow: /web-favorites/
 
 User-agent: *
 Allow: /
-
-# for later
-# Sitemap: https://HOST/sitemap.xml
