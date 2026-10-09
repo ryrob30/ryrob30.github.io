@@ -7,7 +7,7 @@ Disallow: /
 # Allow useful bots
 User-agent: Googlebot
 User-agent: Bingbot
-Allow: /
+Allow: /web-favorites/
 
 User-agent: *
 Allow: /
